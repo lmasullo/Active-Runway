@@ -1,0 +1,79 @@
+@charset "UTF-8";
+/*"#" is for IDs, "." is for classes*/
+#divCenter {
+    text-align: center;
+}
+#divAbout {
+    text-align: center;
+    padding-left: 20px;
+}
+#pAbout {
+    font-weight: bold;
+}
+.divCenter {
+    text-align: center;
+}
+.RnyOne {
+    width: 86%;
+    float: left;
+}
+.RnyOneB {
+    width: 40px;
+    float: left;
+}
+.one {
+    padding-top: 10px;
+    width: 15%;
+    height: auto;
+    float: left;
+}
+.two {
+    padding-top: 2px;
+    width: 15%;
+    height: auto;
+    float: left;
+}
+.three {
+    padding-top: 10px;
+    width: 40%;
+    height: auto;
+    float: left;
+}
+.four {
+    padding-top: 10px;
+    width: 15%;
+    height: auto;
+    float: left;
+}
+.five {
+    padding-top: 2px;
+    width: 15%;
+    height: auto;
+    float: left;
+}
+.fl {
+    float: left;
+    //display: inline-block;
+    padding-top: 10px;
+}
+.fr {
+    float: right;
+    //display: inline-block;
+
+}
+.padding {
+   padding-top: 50px;
+}
+.resizedTextbox {
+    height: 20px;
+    width: 35px;
+    font-weight: bold;
+}
+.blue {
+    color: blue;
+}
+.green {
+    color: green;
+    font-size: 2em;
+}
+
